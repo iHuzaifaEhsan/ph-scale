@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.ph-scale-1{
+    background-color: 	#fe0002;
+    height: 20vh;
+}
+.ph-scale-2{
+    background-color: 	#d9fd07;
+    height: 20vh;
+}
+.ph-scale-3{
+    background-color: 	#37a737;
+    height: 20vh;
+}
+.ph-scale-4{
+    background-color: #004dff;
+    height: 20vh;
+}
+.ph-scale-5{
+    background-color: 	#44008b;
+    height: 20vh;
+}
